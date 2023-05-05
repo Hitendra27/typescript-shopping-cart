@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Buddha",
+    "price": 25.99,
+    "imgUrl": "/images/buddha.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Novel",
+    "price": 12.99,
+    "imgUrl": "/images/novel.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 49.99,
+    "imgUrl": "/images/headphones.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Air Jordan",
+    "price": 75.99,
+    "imgUrl": "/images/airjordan.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Baseball",
+    "price": 15.99,
+    "imgUrl": "/images/baseball.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bracelet",
+    "price": 34.99,
+    "imgUrl": "/images/bracelet.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Comic",
+    "price": 22.99,
+    "imgUrl": "/images/comic.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Converse",
+    "price": 39.99,
+    "imgUrl": "/images/converse.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Fountain Pen",
+    "price": 37.99,
+    "imgUrl": "/images/pen.jpg"
+  }
+]
